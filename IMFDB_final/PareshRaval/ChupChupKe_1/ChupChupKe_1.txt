@@ -1,0 +1,5 @@
+
+ChupChupKe_PareshRaval	281.jpg	PareshRaval_1.jpg	712	158	186	217	ChupChupKe	2006	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+ChupChupKe_PareshRaval	285.jpg	PareshRaval_2.jpg	689	134	198	240	ChupChupKe	2006	PareshRaval	MALE	FEAR	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+ChupChupKe_PareshRaval	287.jpg	PareshRaval_3.jpg	902	125	180	250	ChupChupKe	2006	PareshRaval	MALE	FEAR	GLASSES	BAD	MIDDLE	LEFT	PARTIAL
+ChupChupKe_PareshRaval	411.jpg	PareshRaval_4.jpg	561	131	315	369	ChupChupKe	2006	PareshRaval	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL

@@ -1,0 +1,12 @@
+
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0006.jpg	Mukesh_1.jpg	310	70	115	137	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0055.jpg	Mukesh_10.jpg	272	55	105	129	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	UP	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0057.jpg	Mukesh_11.jpg	289	52	120	138	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0008.jpg	Mukesh_2.jpg	316	63	110	134	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0010.jpg	Mukesh_3.jpg	315	63	112	137	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0012.jpg	Mukesh_4.jpg	323	80	115	142	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0015.jpg	Mukesh_5.jpg	443	53	32	45	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0027.jpg	Mukesh_6.jpg	211	61	54	61	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0032.jpg	Mukesh_7.jpg	211	70	56	62	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0041.jpg	Mukesh_8.jpg	252	65	42	60	Sound_Thoma	2013	Mukesh	MALE	ANGER	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Sound_Thoma_Comedy_Compilation-YouTube_[360p]	0051.jpg	Mukesh_9.jpg	248	80	66	77	Sound_Thoma	2013	Mukesh	MALE	SADNESS	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL

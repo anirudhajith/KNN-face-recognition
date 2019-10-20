@@ -1,0 +1,25 @@
+
+NoEntry_SalmanKhan_AnilKapoor	0005.jpg	SalmanKhan_1.jpg	105	50	46	69	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0255.jpg	SalmanKhan_10.jpg	156	90	52	67	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0267.jpg	SalmanKhan_11.jpg	132	53	91	106	NoEntry	2014	SalmanKhan	MALE	DISGUST	HAND	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0269.jpg	SalmanKhan_12.jpg	182	77	88	111	NoEntry	2014	SalmanKhan	MALE	DISGUST	HAND	MEDIUM	YOUNG	LEFT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0332.jpg	SalmanKhan_13.jpg	156	78	60	85	NoEntry	2014	SalmanKhan	MALE	HAPPINESS	OTHERS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0608.jpg	SalmanKhan_14.jpg	136	51	62	86	NoEntry	2014	SalmanKhan	MALE	FEAR	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0740.jpg	SalmanKhan_15.jpg	87	41	105	145	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0762.jpg	SalmanKhan_16.jpg	111	93	55	78	NoEntry	2014	SalmanKhan	MALE	SADNESS	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0830.jpg	SalmanKhan_17.jpg	68	48	111	150	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0838.jpg	SalmanKhan_18.jpg	104	47	91	125	NoEntry	2014	SalmanKhan	MALE	HAPPINESS	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0842.jpg	SalmanKhan_19.jpg	148	61	94	139	NoEntry	2014	SalmanKhan	MALE	HAPPINESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0010.jpg	SalmanKhan_2.jpg	70	69	39	62	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	1168.jpg	SalmanKhan_20.jpg	172	50	95	130	NoEntry	2014	SalmanKhan	MALE	SADNESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	1175.jpg	SalmanKhan_21.jpg	215	72	102	120	NoEntry	2014	SalmanKhan	MALE	SADNESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	1311.jpg	SalmanKhan_22.jpg	197	58	113	143	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	1401.jpg	SalmanKhan_23.jpg	77	63	107	142	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	1450.jpg	SalmanKhan_24.jpg	98	70	77	105	NoEntry	2014	SalmanKhan	MALE	DISGUST	OTHERS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0048.jpg	SalmanKhan_3.jpg	96	52	47	61	NoEntry	2014	SalmanKhan	MALE	SADNESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0085.jpg	SalmanKhan_4.jpg	110	33	71	104	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0121.jpg	SalmanKhan_5.jpg	113	50	63	91	NoEntry	2014	SalmanKhan	MALE	SADNESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0154.jpg	SalmanKhan_6.jpg	68	69	91	115	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0155.jpg	SalmanKhan_7.jpg	161	57	90	120	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0221.jpg	SalmanKhan_8.jpg	4	86	64	94	NoEntry	2014	SalmanKhan	MALE	SADNESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+NoEntry_SalmanKhan_AnilKapoor	0248.jpg	SalmanKhan_9.jpg	114	78	114	103	NoEntry	2014	SalmanKhan	MALE	DISGUST	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL

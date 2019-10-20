@@ -1,0 +1,7 @@
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	035.jpg	Brahmanandam_1.jpg	99	282	92	113	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	HAPPINESS	OTHERS	BAD	MIDDLE	RIGHT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	036.jpg	Brahmanandam_2.jpg	196	264	98	117	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	HAPPINESS	OTHERS	BAD	MIDDLE	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	037.jpg	Brahmanandam_3.jpg	264	258	102	120	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	HAPPINESS	OTHERS	BAD	MIDDLE	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	143.jpg	Brahmanandam_4.jpg	135	278	111	148	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	SURPRISE	OTHERS	BAD	MIDDLE	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	153.jpg	Brahmanandam_5.jpg	362	314	127	163	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	NEUTRAL	OTHERS	BAD	MIDDLE	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	163.jpg	Brahmanandam_6.jpg	794	201	68	92	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	ANGER	OTHERS	BAD	MIDDLE	UP	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	172.jpg	Brahmanandam_7.jpg	353	198	104	134	ShahasaVeeruduSagaraKanya	09-02-1996	Brahmanandam	MALE	NEUTRAL	OTHERS	BAD	MIDDLE	DOWN	PARTIAL

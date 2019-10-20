@@ -1,0 +1,22 @@
+
+AwaraPaagalDiwaana_PareshRaval	0121.jpg	PareshRaval_1.jpg	85	80	87	100	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0516.jpg	PareshRaval_10.jpg	332	8	89	130	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0731.jpg	PareshRaval_11.jpg	82	39	123	148	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0740.jpg	PareshRaval_12.jpg	69	92	134	141	AwaraPaagalDiwaana	2002	PareshRaval	MALE	SADNESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0822.jpg	PareshRaval_13.jpg	230	27	124	152	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0857.jpg	PareshRaval_14.jpg	221	45	133	148	AwaraPaagalDiwaana	2002	PareshRaval	MALE	HAPPINESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0860.jpg	PareshRaval_15.jpg	244	92	116	135	AwaraPaagalDiwaana	2002	PareshRaval	MALE	SADNESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0876.jpg	PareshRaval_16.jpg	140	92	76	150	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0883.jpg	PareshRaval_17.jpg	236	125	124	137	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	1240.jpg	PareshRaval_18.jpg	251	82	139	166	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	OVER
+AwaraPaagalDiwaana_PareshRaval	1571.jpg	PareshRaval_19.jpg	271	25	82	88	AwaraPaagalDiwaana	2002	PareshRaval	MALE	HAPPINESS	NONE	MEDIUM	YOUNG	FRONTAL	OVER
+AwaraPaagalDiwaana_PareshRaval	1681.jpg	PareshRaval_20.jpg	207	40	82	113	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	OVER
+AwaraPaagalDiwaana_PareshRaval	1796.jpg	PareshRaval_21.jpg	220	32	108	115	AwaraPaagalDiwaana	2002	PareshRaval	MALE	FEAR	NONE	MEDIUM	YOUNG	UP	OVER
+AwaraPaagalDiwaana_PareshRaval	1798.jpg	PareshRaval_22.jpg	255	46	96	90	AwaraPaagalDiwaana	2002	PareshRaval	MALE	FEAR	NONE	MEDIUM	YOUNG	UP	OVER
+AwaraPaagalDiwaana_PareshRaval	0357.jpg	PareshRaval_3.jpg	182	33	92	111	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0380.jpg	PareshRaval_4.jpg	197	10	91	111	AwaraPaagalDiwaana	2002	PareshRaval	MALE	HAPPINESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0388.jpg	PareshRaval_5.jpg	191	71	92	105	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0409.jpg	PareshRaval_6.jpg	166	44	103	105	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0414.jpg	PareshRaval_7.jpg	248	17	58	116	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0482.jpg	PareshRaval_8.jpg	248	42	62	102	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+AwaraPaagalDiwaana_PareshRaval	0486.jpg	PareshRaval_9.jpg	252	47	87	107	AwaraPaagalDiwaana	2002	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL

@@ -1,0 +1,27 @@
+
+GaramMasala_PareshRaval	033.jpg	PareshRaval_1.jpg	137	135	62	52	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	DOWN	PARTIAL
+GaramMasala_PareshRaval	277.jpg	PareshRaval_10.jpg	184	111	46	63	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval	308.jpg	PareshRaval_11.jpg	151	98	45	60	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval	309.jpg	PareshRaval_12.jpg	121	137	49	64	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+GaramMasala_PareshRaval	323.jpg	PareshRaval_13.jpg	178	166	72	79	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval	330.jpg	PareshRaval_14.jpg	227	100	48	62	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval	342.jpg	PareshRaval_15.jpg	194	95	46	61	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+GaramMasala_PareshRaval	347.jpg	PareshRaval_16.jpg	222	98	40	54	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	213.jpg	PareshRaval_17.jpg	111	109	36	52	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	227.jpg	PareshRaval_18.jpg	205	115	32	36	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	234.jpg	PareshRaval_19.jpg	148	121	31	36	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval	034.jpg	PareshRaval_2.jpg	110	111	52	59	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	297.jpg	PareshRaval_20.jpg	57	151	113	130	GaramMasala	2005	PareshRaval	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	301.jpg	PareshRaval_21.jpg	134	123	125	143	GaramMasala	2005	PareshRaval	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	353.jpg	PareshRaval_22.jpg	114	132	93	123	GaramMasala	2005	PareshRaval	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	367.jpg	PareshRaval_23.jpg	135	109	96	127	GaramMasala	2005	PareshRaval	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	382.jpg	PareshRaval_24.jpg	125	121	37	64	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	394.jpg	PareshRaval_25.jpg	100	88	38	64	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval_AkshayKumar	403.jpg	PareshRaval_26.jpg	111	124	28	64	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval	065.jpg	PareshRaval_3.jpg	184	105	21	29	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval	178.jpg	PareshRaval_4.jpg	125	113	27	35	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+GaramMasala_PareshRaval	185.jpg	PareshRaval_5.jpg	136	120	27	37	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval	205.jpg	PareshRaval_6.jpg	241	132	28	35	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval	263.jpg	PareshRaval_7.jpg	241	151	69	82	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval	270.jpg	PareshRaval_8.jpg	232	118	80	77	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL
+GaramMasala_PareshRaval	272.jpg	PareshRaval_9.jpg	299	132	64	70	GaramMasala	2005	PareshRaval	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL

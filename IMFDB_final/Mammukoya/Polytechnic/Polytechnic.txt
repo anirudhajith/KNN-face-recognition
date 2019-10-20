@@ -1,0 +1,8 @@
+﻿
+Polytechnic-YouTube[360p]	005.jpg	Mammukoya_1.jpg	188	85	37	69	Polytechnic	2009	Mammukoya	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Polytechnic-YouTube[360p]	046.jpg	Mammukoya_2.jpg	177	85	45	70	Polytechnic	2009	Mammukoya	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Polytechnic-YouTube[360p]	123.jpg	Mammukoya_3.jpg	185	85	42	68	Polytechnic	2009	Mammukoya	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Polytechnic-YouTube[360p]	185.jpg	Mammukoya_4.jpg	161	71	88	152	Polytechnic	2009	Mammukoya	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Polytechnic-YouTube[360p]	207.jpg	Mammukoya_5.jpg	207	117	59	79	Polytechnic	2009	Mammukoya	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Polytechnic-YouTube[360p]	234.jpg	Mammukoya_6.jpg	182	130	40	70	Polytechnic	2009	Mammukoya	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Polytechnic-YouTube[360p]	385.jpg	Mammukoya_7.jpg	88	83	76	106	Polytechnic	2009	Mammukoya	MALE	NEUTRAL	OTHERS	BAD	MIDDLE	FRONTAL	PARTIAL

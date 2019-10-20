@@ -1,0 +1,15 @@
+Nuvvu_Vasthavani	10285.jpg	MallikarjunaRao_1.jpg	543	188	131	157	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	10292.jpg	MallikarjunaRao_3.jpg	582	180	149	162	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	11528.jpg	MallikarjunaRao_5.jpg	497	204	158	174	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21694.jpg	MallikarjunaRao_6.jpg	602	155	119	138	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21705.jpg	MallikarjunaRao_7.jpg	591	165	118	144	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21712.jpg	MallikarjunaRao_8.jpg	602	141	125	152	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21741.jpg	MallikarjunaRao_9.jpg	524	114	69	93	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21769.jpg	MallikarjunaRao_10.jpg	526	170	170	210	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21826.jpg	MallikarjunaRao_11.jpg	707	147	110	152	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21865.jpg	MallikarjunaRao_13.jpg	618	150	122	164	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	21898.jpg	MallikarjunaRao_14.jpg	617	140	86	90	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL	
+Nuvvu_Vasthavani	21922.jpg	MallikarjunaRao_16.jpg	498	177	89	107	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL	
+Nuvvu_Vasthavani	21926.jpg	MallikarjunaRao_17.jpg	709	180	87	116	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL	
+Nuvvu_Vasthavani	21942.jpg	MallikarjunaRao_19.jpg	399	258	98	98	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL	
+Nuvvu_Vasthavani	21945.jpg	MallikarjunaRao_20.jpg	596	132	83	104	Nuvvu_Vasthavani	05-04-2000	Mallikarjunrao	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL	

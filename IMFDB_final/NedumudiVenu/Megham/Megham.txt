@@ -1,0 +1,5 @@
+﻿
+Megham_cochinganeefa,venu	002.jpg	Venu_1.jpg	223	84	25	30	Megham	1999	NedumudiVenu	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Megham_cochinganeefa,venu	010.jpg	Venu_2.jpg	217	76	27	36	Megham	1999	NedumudiVenu	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Megham_cochinganeefa,venu	014.jpg	Venu_3.jpg	202	79	27	34	Megham	1999	NedumudiVenu	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Megham_cochinganeefa,venu	040.jpg	Venu_4.jpg	237	92	26	38	Megham	1999	NedumudiVenu	MALE	HAPPINESS	NONE	BAD	MIDDLE	DOWN	PARTIAL

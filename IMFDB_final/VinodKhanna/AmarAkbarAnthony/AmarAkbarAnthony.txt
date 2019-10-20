@@ -1,0 +1,12 @@
+
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	076.jpg	VinodKhanna_1.jpg	331	120	85	90	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	455.jpg	VinodKhanna_10.jpg	288	141	158	209	AmarAkbarAnthony	1977	VinodKhanna	MALE	DISGUST	BEARD	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	458.jpg	VinodKhanna_11.jpg	173	173	159	179	AmarAkbarAnthony	1977	VinodKhanna	MALE	DISGUST	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	538.jpg	VinodKhanna_12.jpg	313	186	87	121	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	618.jpg	VinodKhanna_13.jpg	148	133	72	87	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	138.jpg	VinodKhanna_3.jpg	269	153	99	111	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	151.jpg	VinodKhanna_5.jpg	212	99	157	195	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	163.jpg	VinodKhanna_6.jpg	194	159	136	156	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	207.jpg	VinodKhanna_7.jpg	250	111	200	190	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	UP	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	208.jpg	VinodKhanna_8.jpg	339	118	193	199	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	UP	PARTIAL
+clip29_AmarAkbarAnthony_VinodKhanna_Amitabh	314.jpg	VinodKhanna_9.jpg	170	134	76	88	AmarAkbarAnthony	1977	VinodKhanna	MALE	HAPPINESS	BEARD	MEDIUM	YOUNG	FRONTAL	PARTIAL

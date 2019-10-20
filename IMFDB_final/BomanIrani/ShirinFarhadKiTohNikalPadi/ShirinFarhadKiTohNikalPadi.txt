@@ -1,0 +1,21 @@
+
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	001.jpg	BomanIrani_1.jpg	794	114	248	317	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	ANGER	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	076.jpg	BomanIrani_10.jpg	869	146	138	204	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	ANGER	NONE	MEDIUM	OLD	LEFT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	102.jpg	BomanIrani_12.jpg	883	219	70	113	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	NEUTRAL	OTHERS	MEDIUM	OLD	RIGHT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	112.jpg	BomanIrani_13.jpg	447	340	205	275	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	NEUTRAL	OTHERS	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	119.jpg	BomanIrani_14.jpg	643	118	267	364	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	152.jpg	BomanIrani_16.jpg	690	144	269	354	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	DOWN	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	160.jpg	BomanIrani_17.jpg	712	125	231	337	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	HAPPINESS	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	162.jpg	BomanIrani_18.jpg	782	275	267	315	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	OTHERS	MEDIUM	OLD	RIGHT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	165.jpg	BomanIrani_19.jpg	587	227	291	315	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	LEFT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	169.jpg	BomanIrani_20.jpg	667	177	239	329	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	RIGHT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	171.jpg	BomanIrani_21.jpg	746	194	290	328	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	NEUTRAL	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	177.jpg	BomanIrani_23.jpg	685	67	264	347	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	181.jpg	BomanIrani_24.jpg	518	134	233	336	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	NEUTRAL	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	010.jpg	BomanIrani_3.jpg	850	153	157	201	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	017.jpg	BomanIrani_4.jpg	842	197	131	196	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	NEUTRAL	NONE	MEDIUM	OLD	RIGHT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	018.jpg	BomanIrani_5.jpg	833	144	161	206	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	050.jpg	BomanIrani_6.jpg	883	166	142	209	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	NEUTRAL	OTHERS	MEDIUM	OLD	RIGHT	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	052.jpg	BomanIrani_7.jpg	886	211	142	197	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	056.jpg	BomanIrani_8.jpg	882	165	143	206	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	DOWN	PARTIAL
+clip4_ShirinFarhadKiTohNikalPadi_BomanIrani	073.jpg	BomanIrani_9.jpg	869	141	138	212	ShirinFarhadKiTohNikalPadi	2012	BomanIrani	MALE	DISGUST	NONE	MEDIUM	OLD	RIGHT	PARTIAL

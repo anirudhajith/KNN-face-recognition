@@ -1,0 +1,17 @@
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	088.jpg	Shivaram_10.jpg	261	100	52	52	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	BEARD	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	110.jpg	Shivaram_13.jpg	194	117	34	43	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	130.jpg	Shivaram_15.jpg	163	92	33	38	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	137.jpg	Shivaram_17.jpg	230	101	28	34	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	140.jpg	Shivaram_18.jpg	251	103	29	37	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	018.jpg	Shivaram_2.jpg	72	81	77	83	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	308.jpg	Shivaram_20.jpg	92	89	26	28	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	413.jpg	Shivaram_21.jpg	112	77	23	28	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	587.jpg	Shivaram_23.jpg	231	77	32	35	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	589.jpg	Shivaram_24.jpg	225	86	32	35	Chandramuki_Pranasakhi	1999	Shivaram	MALE	SADNESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	592.jpg	Shivaram_26.jpg	243	75	35	45	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	638.jpg	Shivaram_29.jpg	254	54	21	23	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	039.jpg	Shivaram_4.jpg	165	81	46	62	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	059.jpg	Shivaram_6.jpg	171	78	63	70	Chandramuki_Pranasakhi	1999	Shivaram	MALE	SURPRISE	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	064.jpg	Shivaram_7.jpg	223	79	52	67	Chandramuki_Pranasakhi	1999	Shivaram	MALE	SURPRISE	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	069.jpg	Shivaram_8.jpg	217	71	50	58	Chandramuki_Pranasakhi	1999	Shivaram	MALE	SADNESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+clip3_ChandramukhiPranasakhi_Prema_Shivaram	077.jpg	Shivaram_9.jpg	200	76	40	46	Chandramuki_Pranasakhi	1999	Shivaram	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL

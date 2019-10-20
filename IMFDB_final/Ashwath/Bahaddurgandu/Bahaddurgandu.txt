@@ -1,0 +1,21 @@
+
+null	null	null	null	null	null	null	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_10_14	0116.jpg	Aswanth_1.jpg	204	98	40	54	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1084.jpg	Aswanth_10.jpg	110	112	54	70	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1123.jpg	Aswanth_12.jpg	98	93	53	71	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1125.jpg	Aswanth_13.jpg	83	88	49	66	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1133.jpg	Aswanth_15.jpg	75	88	50	67	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1135.jpg	Aswanth_16.jpg	74	83	41	68	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	RIGHT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1139.jpg	Aswanth_17.jpg	86	87	68	103	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	RIGHT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1141.jpg	Aswanth_18.jpg	113	104	63	86	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1142.jpg	Aswanth_19.jpg	65	106	51	70	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_10_14	0120.jpg	Aswanth_2.jpg	222	85	49	64	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	OTHERS	HIGH	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1155.jpg	Aswanth_20.jpg	85	104	25	48	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1171.jpg	Aswanth_21.jpg	74	111	31	41	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1176.jpg	Aswanth_22.jpg	82	107	28	49	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1189.jpg	Aswanth_23.jpg	62	121	31	42	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	FRONTAL	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1062.jpg	Aswanth_3.jpg	78	94	26	39	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1066.jpg	Aswanth_5.jpg	106	99	43	60	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1068.jpg	Aswanth_6.jpg	98	115	52	61	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	HAND	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1071.jpg	Aswanth_7.jpg	82	10	60	66	Bahaddurgandu	1976	Ashwath	MALE	HAPPINESS	OTHERS	MEDIUM	MIDDLE	LEFT	OVER
+Kannada_Movie_Bahaddur_Gandu_Rajkumar_Part_2_14	1078.jpg	Aswanth_9.jpg	72	108	57	74	Bahaddurgandu	1976	Ashwath	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	LEFT	OVER

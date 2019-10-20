@@ -1,0 +1,24 @@
+
+clip30_dhoBatonKi_VinodKhanna_Bharati	032.jpg	VinodKhanna_1.jpg	348	194	334	401	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	LEFT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	367.jpg	VinodKhanna_10.jpg	455	185	184	236	DhoBatonKi	1971	VinodKhanna	MALE	DISGUST	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	375.jpg	VinodKhanna_11.jpg	443	258	270	259	DhoBatonKi	1971	VinodKhanna	MALE	DISGUST	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	413.jpg	VinodKhanna_13.jpg	614	299	296	308	DhoBatonKi	1971	VinodKhanna	MALE	DISGUST	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	418.jpg	VinodKhanna_14.jpg	614	240	285	344	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	433.jpg	VinodKhanna_15.jpg	714	273	257	317	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	OTHERS	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	454.jpg	VinodKhanna_17.jpg	412	351	247	322	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	OTHERS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	467.jpg	VinodKhanna_18.jpg	303	191	336	345	DhoBatonKi	1971	VinodKhanna	MALE	DISGUST	OTHERS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	036.jpg	VinodKhanna_2.jpg	435	122	388	440	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	LEFT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	471.jpg	VinodKhanna_20.jpg	555	332	338	233	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	UP	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	490.jpg	VinodKhanna_23.jpg	629	372	333	293	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	OTHERS	MEDIUM	YOUNG	UP	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	497.jpg	VinodKhanna_25.jpg	649	341	301	293	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	LEFT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	506.jpg	VinodKhanna_26.jpg	140	180	238	280	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	LEFT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	527.jpg	VinodKhanna_27.jpg	606	228	304	317	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	LEFT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	546.jpg	VinodKhanna_28.jpg	478	387	361	288	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	OTHERS	MEDIUM	YOUNG	DOWN	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	548.jpg	VinodKhanna_29.jpg	498	251	347	402	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	622.jpg	VinodKhanna_34.jpg	620	204	257	292	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	OTHERS	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	646.jpg	VinodKhanna_37.jpg	619	250	195	247	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	650.jpg	VinodKhanna_38.jpg	479	228	224	229	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	278.jpg	VinodKhanna_5.jpg	849	86	407	516	DhoBatonKi	1971	VinodKhanna	MALE	DISGUST	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	361.jpg	VinodKhanna_7.jpg	398	226	183	216	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	362.jpg	VinodKhanna_8.jpg	441	210	182	226	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip30_dhoBatonKi_VinodKhanna_Bharati	364.jpg	VinodKhanna_9.jpg	498	209	196	188	DhoBatonKi	1971	VinodKhanna	MALE	HAPPINESS	HAIR	MEDIUM	YOUNG	FRONTAL	PARTIAL

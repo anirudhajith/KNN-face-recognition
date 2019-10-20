@@ -1,0 +1,13 @@
+
+venkataInSankata_Umashri	071.jpg	Umashri_1.jpg	236	112	41	41	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	245.jpg	Umashri_10.jpg	174	113	56	60	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	247.jpg	Umashri_11.jpg	180	115	61	59	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	252.jpg	Umashri_12.jpg	255	110	39	36	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	287.jpg	Umashri_14.jpg	260	98	38	33	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	319.jpg	Umashri_15.jpg	241	109	31	33	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	131.jpg	Umashri_2.jpg	230	97	30	42	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+venkataInSankata_Umashri	164.jpg	Umashri_3.jpg	228	102	31	30	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	237.jpg	Umashri_6.jpg	186	128	44	40	venkataInSankata	2009	Umashri	FEMALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	239.jpg	Umashri_7.jpg	164	128	52	53	venkataInSankata	2009	Umashri	FEMALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	241.jpg	Umashri_8.jpg	172	119	62	66	venkataInSankata	2009	Umashri	FEMALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+venkataInSankata_Umashri	243.jpg	Umashri_9.jpg	163	117	62	63	venkataInSankata	2009	Umashri	FEMALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL

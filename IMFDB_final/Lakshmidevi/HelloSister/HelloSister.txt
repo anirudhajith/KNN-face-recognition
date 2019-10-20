@@ -1,0 +1,13 @@
+clip8_HelloSister_LakshmiDevi_ShashiKumar	168.jpg	LakshmiDevi_1.jpg	147	70	28	50	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	220.jpg	LakshmiDevi_10.jpg	25	98	35	50	Hello_Sister	1995	Lakshmi_Devi	FEMALE	SADNESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	243.jpg	LakshmiDevi_11.jpg	256	114	34	55	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	310.jpg	LakshmiDevi_12.jpg	146	106	24	37	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	319.jpg	LakshmiDevi_13.jpg	186	97	29	40	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	334.jpg	LakshmiDevi_14.jpg	111	113	23	35	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	MEDIUM	MIDDLE	UP	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	173.jpg	LakshmiDevi_2.jpg	116	86	40	61	Hello_Sister	1995	Lakshmi_Devi	FEMALE	SURPRISE	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	184.jpg	LakshmiDevi_4.jpg	42	82	47	65	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	189.jpg	LakshmiDevi_5.jpg	18	79	40	65	Hello_Sister	1995	Lakshmi_Devi	FEMALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	204.jpg	LakshmiDevi_6.jpg	37	80	36	52	Hello_Sister	1995	Lakshmi_Devi	FEMALE	SADNESS	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	209.jpg	LakshmiDevi_7.jpg	58	81	30	50	Hello_Sister	1995	Lakshmi_Devi	FEMALE	SURPRISE	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	218.jpg	LakshmiDevi_9.jpg	60	90	35	54	Hello_Sister	1995	Lakshmi_Devi	FEMALE	SADNESS	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	334.jpg	LakshmiDevi_14.jpg	111	113	23	35	Hello_Sister	1995	Lakshmi_Devi	FEMALE	SADNESS	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL

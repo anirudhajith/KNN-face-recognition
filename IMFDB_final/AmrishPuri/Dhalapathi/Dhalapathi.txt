@@ -1,0 +1,15 @@
+
+Dhalapathi_AmreshPuri	034.jpg	AmreshPuri_1.jpg	629	341	308	313	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Dhalapathi_AmreshPuri	288.jpg	AmreshPuri_10.jpg	850	250	124	151	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Dhalapathi_AmreshPuri	295.jpg	AmreshPuri_11.jpg	618	219	127	159	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Dhalapathi_AmreshPuri	348.jpg	AmreshPuri_12.jpg	647	204	128	161	Thalapathi	1991	AmrishPuri	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Dhalapathi_AmreshPuri	453.jpg	AmreshPuri_13.jpg	760	174	336	422	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Dhalapathi_AmreshPuri	512.jpg	AmreshPuri_14.jpg	342	147	293	368	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+Dhalapathi_AmreshPuri	035.jpg	AmreshPuri_2.jpg	612	94	290	361	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+Dhalapathi_AmreshPuri	040.jpg	AmreshPuri_3.jpg	407	162	291	348	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Dhalapathi_AmreshPuri	064.jpg	AmreshPuri_4.jpg	534	180	143	171	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+Dhalapathi_AmreshPuri	094.jpg	AmreshPuri_5.jpg	348	166	83	112	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+Dhalapathi_AmreshPuri	139.jpg	AmreshPuri_6.jpg	254	156	325	366	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+Dhalapathi_AmreshPuri	214.jpg	AmreshPuri_7.jpg	778	177	183	249	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Dhalapathi_AmreshPuri	225.jpg	AmreshPuri_8.jpg	726	204	185	212	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Dhalapathi_AmreshPuri	244.jpg	AmreshPuri_9.jpg	722	185	191	237	Thalapathi	1991	AmrishPuri	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL

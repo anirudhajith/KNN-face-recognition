@@ -1,0 +1,17 @@
+Nuvvu_Vasthavani	22406.jpg	Bhramanandam_19.jpg	629	267	125	128	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	06890.jpg	Bhramanandam_10.jpg	784	243	136	129	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	DOWN	PARTIAL
+Nuvvu_Vasthavani	06901.jpg	Bhramanandam_11.jpg	719	225	120	150	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	RIGHT	PARTIAL
+Nuvvu_Vasthavani	06909.jpg	Bhramanandam_12.jpg	697	183	76	140	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Nuvvu_Vasthavani	06929.jpg	Bhramanandam_13.jpg	787	182	133	139	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	RIGHT	PARTIAL
+Nuvvu_Vasthavani	08263.jpg	Bhramanandam_14.jpg	611	341	203	234	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	08535.jpg	Bhramanandam_15.jpg	599	318	197	189	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	22377.jpg	Bhramanandam_16.jpg	662	294	117	128	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	22392.jpg	Bhramanandam_18.jpg	730	256	106	124	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	HAPPINESS	HAIR	BAD	MIDDLE	RIGHT	PARTIAL
+Nuvvu_Vasthavani	22406.jpg	Bhramanandam_19.jpg	629	267	125	128	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	ANGER	HAIR	BAD	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	04091.jpg	Bhramanandam_2.jpg	497	159	392	443	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	SURPRISE	HAIR	HIGH	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	04094.jpg	Bhramanandam_3.jpg	501	186	371	404	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	DISGUST	HAIR	HIGH	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	04095.jpg	Bhramanandam_4.jpg	446	211	402	419	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	DISGUST	HAIR	HIGH	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	06774.jpg	Bhramanandam_5.jpg	644	257	149	117	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	NEUTRAL	HAND	BAD	MIDDLE	FRONTAL	PARTIAL
+Nuvvu_Vasthavani	06843.jpg	Bhramanandam_7.jpg	704	162	75	147	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	NEUTRAL	HAIR	BAD	MIDDLE	RIGHT	PARTIAL
+Nuvvu_Vasthavani	06848.jpg	Bhramanandam_8.jpg	730	186	114	141	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	NEUTRAL	HAIR	BAD	MIDDLE	RIGHT	PARTIAL
+Nuvvu_Vasthavani	06884.jpg	Bhramanandam_9.jpg	803	185	132	153	Nuvvu_Vasthavani	05-04-2000	Brahmanandam	MALE	SURPRISE	HAIR	BAD	MIDDLE	FRONTAL	PARTIAL

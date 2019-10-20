@@ -1,0 +1,22 @@
+
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	026.jpg	ShilpaShetty_1.jpg	324	81	346	482	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	SADNESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	232.jpg	ShilpaShetty_10.jpg	410	169	150	185	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	HAPPINESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	295.jpg	ShilpaShetty_11.jpg	764	201	147	191	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	344.jpg	ShilpaShetty_12.jpg	650	163	246	328	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	390.jpg	ShilpaShetty_13.jpg	767	133	263	366	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	ANGER	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	406.jpg	ShilpaShetty_14.jpg	644	189	152	208	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	417.jpg	ShilpaShetty_15.jpg	727	174	196	215	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	HIGH	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	422.jpg	ShilpaShetty_16.jpg	707	168	181	239	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	474.jpg	ShilpaShetty_17.jpg	700	234	190	243	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	485.jpg	ShilpaShetty_18.jpg	524	85	530	554	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	ANGER	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	559.jpg	ShilpaShetty_19.jpg	725	147	207	275	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	046.jpg	ShilpaShetty_2.jpg	98	197	159	193	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	562.jpg	ShilpaShetty_20.jpg	718	151	226	280	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	ANGER	HAND	MEDIUM	YOUNG	FRONTAL	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	589.jpg	ShilpaShetty_21.jpg	551	151	272	364	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	047.jpg	ShilpaShetty_3.jpg	159	204	105	170	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	059.jpg	ShilpaShetty_4.jpg	443	325	106	196	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	071.jpg	ShilpaShetty_5.jpg	271	72	350	492	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	092.jpg	ShilpaShetty_6.jpg	295	120	370	491	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	163.jpg	ShilpaShetty_7.jpg	597	396	82	129	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	230.jpg	ShilpaShetty_8.jpg	354	153	141	192	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	HAPPINESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+ShahasaVeeruduSagaraKanya_ShilpaShetty_Brahmanandam_BabuMohan	231.jpg	ShilpaShetty_9.jpg	387	159	147	198	SahasaVeeruduSagaraKanya	1996	ShilpaShetty	FEMALE	HAPPINESS	NONE	MEDIUM	YOUNG	FRONTAL	PARTIAL

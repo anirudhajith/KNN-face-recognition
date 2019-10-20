@@ -1,0 +1,13 @@
+santhinivas	015.jpg	Relangi_1.jpg	251	113	64	67	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+santhinivas	060.jpg	Relangi_10.jpg	196	127	107	106	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+santhinivas	062.jpg	Relangi_11.jpg	195	98	112	110	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	HIGH	MIDDLE	FRONTAL	PARTIAL
+santhinivas	460.jpg	Relangi_12.jpg	464	93	51	35	Santhinivasam	1960	Relangi	MALE	SADNESS	HAND	BAD	MIDDLE	FRONTAL	PARTIAL
+santhinivas	462.jpg	Relangi_13.jpg	484	74	59	49	Santhinivasam	1960	Relangi	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+santhinivas	464.jpg	Relangi_14.jpg	431	106	57	40	Santhinivasam	1960	Relangi	MALE	SADNESS	NONE	BAD	MIDDLE	DOWN	PARTIAL
+santhinivas	485.jpg	Relangi_17.jpg	447	71	41	47	Santhinivasam	1960	Relangi	MALE	SADNESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+santhinivas	016.jpg	Relangi_2.jpg	276	94	65	71	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	HIGH	MIDDLE	RIGHT	PARTIAL
+santhinivas	021.jpg	Relangi_3.jpg	348	89	69	65	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+santhinivas	025.jpg	Relangi_4.jpg	281	78	53	73	Santhinivasam	1960	Relangi	MALE	NEUTRAL	OTHERS	MEDIUM	MIDDLE	RIGHT	PARTIAL
+santhinivas	034.jpg	Relangi_5.jpg	345	114	114	106	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	HIGH	MIDDLE	FRONTAL	PARTIAL
+santhinivas	046.jpg	Relangi_8.jpg	337	123	103	113	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	HIGH	MIDDLE	RIGHT	PARTIAL
+santhinivas	056.jpg	Relangi_9.jpg	311	107	93	108	Santhinivasam	1960	Relangi	MALE	ANGER	NONE	HIGH	MIDDLE	RIGHT	PARTIAL

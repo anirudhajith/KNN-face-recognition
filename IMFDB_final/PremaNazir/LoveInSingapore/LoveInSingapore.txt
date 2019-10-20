@@ -1,0 +1,18 @@
+﻿
+Joseprakash_Vs_PremNazir-Lovein_Singapore	275.jpg	PremNazir_1.jpg	190	32	24	31	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	347.jpg	PremNazir_10.jpg	143	56	46	60	Loveinsingapore	1980	premnazir	MALE	HAPPINESS	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	348.jpg	PremNazir_11.jpg	107	69	29	39	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	383.jpg	PremNazir_12.jpg	160	66	49	58	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	386.jpg	PremNazir_13.jpg	227	60	22	30	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	390.jpg	PremNazir_14.jpg	262	17	16	22	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	426.jpg	PremNazir_15.jpg	147	80	47	61	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	429.jpg	PremNazir_16.jpg	137	81	53	61	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	430.jpg	PremNazir_17.jpg	143	82	51	66	Loveinsingapore	1980	premnazir	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	445.jpg	PremNazir_18.jpg	144	89	56	71	Loveinsingapore	1980	premnazir	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	DOWN	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	448.jpg	PremNazir_19.jpg	135	92	59	64	Loveinsingapore	1980	premnazir	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	DOWN	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	279.jpg	PremNazir_2.jpg	137	75	44	50	Loveinsingapore	1980	premnazir	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	280.jpg	PremNazir_3.jpg	134	76	47	50	Loveinsingapore	1980	premnazir	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	286.jpg	PremNazir_4.jpg	131	59	54	60	Loveinsingapore	1980	premnazir	MALE	ANGER	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	310.jpg	PremNazir_6.jpg	141	55	39	45	Loveinsingapore	1980	premnazir	MALE	ANGER	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	322.jpg	PremNazir_7.jpg	149	80	38	47	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL
+Joseprakash_Vs_PremNazir-Lovein_Singapore	335.jpg	PremNazir_8.jpg	100	69	32	40	Loveinsingapore	1980	premnazir	MALE	NEUTRAL	GLASSES	BAD	MIDDLE	LEFT	PARTIAL

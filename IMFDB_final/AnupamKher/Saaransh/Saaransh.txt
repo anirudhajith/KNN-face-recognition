@@ -1,0 +1,14 @@
+
+Saaransh_AnupamKher	371.jpg	AnupamKher_1.jpg	302	72	52	94	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	OLD	RIGHT	PARTIAL
+Saaransh_AnupamKher2	279.jpg	AnupamKher_10.jpg	112	125	91	103	Saaransh	1984	AnupamKher	MALE	SADNESS	NONE	MEDIUM	OLD	FRONTAL	PARTIAL
+Saaransh_AnupamKher2	281.jpg	AnupamKher_11.jpg	107	128	87	100	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	OLD	DOWN	PARTIAL
+Saaransh_AnupamKher2	292.jpg	AnupamKher_12.jpg	187	113	80	104	Saaransh	1984	AnupamKher	MALE	NEUTRAL	HAND	MEDIUM	OLD	LEFT	PARTIAL
+Saaransh_AnupamKher2	439.jpg	AnupamKher_13.jpg	148	86	95	106	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Saaransh_AnupamKher	398.jpg	AnupamKher_2.jpg	296	101	99	128	Saaransh	1984	AnupamKher	MALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Saaransh_AnupamKher	491.jpg	AnupamKher_3.jpg	266	92	61	66	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL
+Saaransh_AnupamKher	522.jpg	AnupamKher_4.jpg	320	66	86	109	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Saaransh_AnupamKher2	044.jpg	AnupamKher_5.jpg	332	74	49	77	Saaransh	1984	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Saaransh_AnupamKher2	068.jpg	AnupamKher_6.jpg	213	69	40	62	Saaransh	1984	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Saaransh_AnupamKher2	156.jpg	AnupamKher_7.jpg	13	59	68	70	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Saaransh_AnupamKher2	194.jpg	AnupamKher_8.jpg	149	64	77	99	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Saaransh_AnupamKher2	254.jpg	AnupamKher_9.jpg	116	98	94	99	Saaransh	1984	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL

@@ -1,0 +1,22 @@
+
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	042.jpg	Ashwanth_1.jpg	283	59	28	22	Muthinahaara	1990	Aswath	MALE	NEUTRAL	OTHERS	BAD	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	115.jpg	Ashwanth_10.jpg	237	34	27	33	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	152.jpg	Ashwanth_11.jpg	244	46	67	68	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	185.jpg	Ashwanth_12.jpg	143	20	141	135	Muthinahaara	1990	Aswath	MALE	SURPRISE	GLASSES	MEDIUM	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	195.jpg	Ashwanth_13.jpg	120	33	79	86	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	198.jpg	Ashwanth_14.jpg	131	37	71	79	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	204.jpg	Ashwanth_15.jpg	142	38	63	74	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	224.jpg	Ashwanth_16.jpg	174	32	59	66	Muthinahaara	1990	Aswath	MALE	HAPPINESS	GLASSES	MEDIUM	MIDDLE	FRONTAL	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	282.jpg	Ashwanth_18.jpg	219	56	69	62	Muthinahaara	1990	Aswath	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	DOWN	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	420.jpg	Ashwanth_19.jpg	197	36	24	25	Muthinahaara	1990	Aswath	MALE	HAPPINESS	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	047.jpg	Ashwanth_2.jpg	273	65	30	29	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	421.jpg	Ashwanth_20.jpg	200	32	23	27	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	436.jpg	Ashwanth_22.jpg	169	33	39	42	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	441.jpg	Ashwanth_23.jpg	151	31	49	49	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	452.jpg	Ashwanth_24.jpg	108	31	63	64	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	052.jpg	Ashwanth_3.jpg	239	46	36	36	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	054.jpg	Ashwanth_4.jpg	229	46	36	34	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	056.jpg	Ashwanth_5.jpg	233	42	37	39	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	059.jpg	Ashwanth_6.jpg	215	43	38	39	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	061.jpg	Ashwanth_7.jpg	210	33	39	41	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER
+clip1_Muthina_Haara_K_S_Ashwath_vishnuvardhan	079.jpg	Ashwanth_8.jpg	243	39	29	41	Muthinahaara	1990	Aswath	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	OVER

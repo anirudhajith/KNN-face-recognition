@@ -1,0 +1,12 @@
+
+PhirMilenge_ShilpaShetty	045.jpg	ShilpaShetty_1.jpg	550	160	48	76	PhirMilenge	2004	ShilpaShetty	FEMALE	NEUTRAL	NONE	MEDIUM	YOUNG	RIGHT	PARTIAL
+PhirMilenge_ShilpaShetty	302.jpg	ShilpaShetty_10.jpg	205	202	121	121	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	HAND	MEDIUM	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	208.jpg	ShilpaShetty_2.jpg	302	151	102	113	PhirMilenge	2004	ShilpaShetty	FEMALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL
+PhirMilenge_ShilpaShetty	254.jpg	ShilpaShetty_3.jpg	213	148	159	138	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	258.jpg	ShilpaShetty_4.jpg	214	179	155	139	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	273.jpg	ShilpaShetty_5.jpg	241	196	122	130	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	MEDIUM	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	288.jpg	ShilpaShetty_6.jpg	162	108	115	144	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	BAD	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	295.jpg	ShilpaShetty_7.jpg	197	145	105	138	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	BAD	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	297.jpg	ShilpaShetty_8.jpg	180	150	129	140	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	BAD	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	300.jpg	ShilpaShetty_9.jpg	150	151	143	140	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	BAD	YOUNG	LEFT	PARTIAL
+PhirMilenge_ShilpaShetty	302.jpg	ShilpaShetty_10.jpg	205	202	121	121	PhirMilenge	2004	ShilpaShetty	FEMALE	SADNESS	NONE	BAD	YOUNG	LEFT	PARTIAL

@@ -1,0 +1,12 @@
+
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	096.jpg	JosePrakash_1.jpg	26	78	15	16	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	214.jpg	JosePrakash_10.jpg	197	44	35	36	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	216.jpg	JosePrakash_11.jpg	170	27	32	37	Love_In_Singapore	1980	Jose_Prakash	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	239.jpg	JosePrakash_13.jpg	200	47	30	33	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	102.jpg	JosePrakash_2.jpg	84	75	18	24	Love_In_Singapore	1980	Jose_Prakash	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	152.jpg	JosePrakash_4.jpg	83	70	19	24	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	176.jpg	JosePrakash_5.jpg	152	95	19	25	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	192.jpg	JosePrakash_6.jpg	191	110	14	20	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	203.jpg	JosePrakash_7.jpg	162	61	44	47	Love_In_Singapore	1980	Jose_Prakash	MALE	ANGER	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	205.jpg	JosePrakash_8.jpg	164	73	40	41	Love_In_Singapore	1980	Jose_Prakash	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+Jose_prakash_Vs.Prem_Nazir-Love_in_Singapore	211.jpg	JosePrakash_9.jpg	185	73	41	42	Love_In_Singapore	1980	Jose_Prakash	MALE	ANGER	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL

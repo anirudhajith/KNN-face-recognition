@@ -1,0 +1,14 @@
+Nuvvu_Vasthavani	02075.jpg	RamaPrabha_1.jpg	503	255	161	179	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	GLASSES	BAD	OLD	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	02082.jpg	RamaPrabha_2.jpg	566	194	104	105	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	FEAR	OTHERS	BAD	OLD	LEFT	PARTIAL	
+Nuvvu_Vasthavani	02090.jpg	RamaPrabha_3.jpg	665	222	93	117	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	GLASSES	BAD	OLD	LEFT	PARTIAL	
+Nuvvu_Vasthavani	14869.jpg	RamaPrabha_5.jpg	706	210	61	77	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	GLASSES	BAD	OLD	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	15713.jpg	RamaPrabha_7.jpg	653	224	92	96	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	GLASSES	MEDIUM	OLD	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	15782.jpg	RamaPrabha_9.jpg	829	363	172	207	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	GLASSES	MEDIUM	OLD	FRONTAL	PARTIAL	
+Nuvvu_Vasthavani	15791.jpg	RamaPrabha_10.jpg	761	342	165	201	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL	
+Nuvvu_Vasthavani	15849.jpg	RamaPrabha_11.jpg	611	371	132	142	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	SADNESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL	
+Nuvvu_Vasthavani	16362.jpg	RamaPrabha_13.jpg	710	215	203	214	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	SADNESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL	
+Nuvvu_Vasthavani	16364.jpg	RamaPrabha_14.jpg	695	204	205	227	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	SADNESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL	
+Nuvvu_Vasthavani	16608.jpg	RamaPrabha_15.jpg	470	255	97	111	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	SADNESS	GLASSES	MEDIUM	OLD	LEFT	PARTIAL	
+Nuvvu_Vasthavani	20343.jpg	RamaPrabha_16.jpg	198	304	81	123	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	SADNESS	OTHERS	MEDIUM	OLD	LEFT	PARTIAL	
+Nuvvu_Vasthavani	20358.jpg	RamaPrabha_17.jpg	112	319	111	150	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	OTHERS	MEDIUM	OLD	LEFT	PARTIAL	
+Nuvvu_Vasthavani	20408.jpg	RamaPrabha_20.jpg	167	299	67	106	Nuvvu_Vasthavani	05-04-2000	Ramarabha	FEMALE	HAPPINESS	OTHERS	BAD	OLD	LEFT	PARTIAL	

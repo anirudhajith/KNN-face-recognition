@@ -1,0 +1,13 @@
+
+clip22_AmarPrem_Sharmila_RajeshKhanna	076.jpg	SharmilaTagore_1.jpg	170	67	84	126	AmarPrem	1971	SharmilaTagore	FEMALE	SADNESS	HAIR	MEDIUM	YOUNG	LEFT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	423.jpg	SharmilaTagore_11.jpg	176	121	104	135	AmarPrem	1971	SharmilaTagore	FEMALE	SADNESS	ORNAMENTS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	505.jpg	SharmilaTagore_16.jpg	218	104	86	114	AmarPrem	1971	SharmilaTagore	FEMALE	SADNESS	ORNAMENTS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	549.jpg	SharmilaTagore_17.jpg	210	70	126	156	AmarPrem	1971	SharmilaTagore	FEMALE	SADNESS	ORNAMENTS	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	555.jpg	SharmilaTagore_18.jpg	227	21	123	183	AmarPrem	1971	SharmilaTagore	FEMALE	SADNESS	ORNAMENTS	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	605.jpg	SharmilaTagore_20.jpg	398	109	53	68	AmarPrem	1971	SharmilaTagore	FEMALE	SADNESS	ORNAMENTS	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	621.jpg	SharmilaTagore_21.jpg	172	97	166	205	AmarPrem	1971	SharmilaTagore	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	683.jpg	SharmilaTagore_24.jpg	198	34	77	103	AmarPrem	1971	SharmilaTagore	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	YOUNG	RIGHT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	084.jpg	SharmilaTagore_3.jpg	100	10	108	118	AmarPrem	1971	SharmilaTagore	FEMALE	DISGUST	ORNAMENTS	MEDIUM	YOUNG	LEFT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	156.jpg	SharmilaTagore_4.jpg	84	121	86	120	AmarPrem	1971	SharmilaTagore	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	YOUNG	LEFT	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	285.jpg	SharmilaTagore_5.jpg	167	101	137	170	AmarPrem	1971	SharmilaTagore	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	YOUNG	FRONTAL	PARTIAL
+clip22_AmarPrem_Sharmila_RajeshKhanna	413.jpg	SharmilaTagore_9.jpg	184	94	116	146	AmarPrem	1971	SharmilaTagore	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	YOUNG	FRONTAL	PARTIAL

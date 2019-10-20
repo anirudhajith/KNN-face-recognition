@@ -1,0 +1,20 @@
+
+mallige_RameshAarvaind	028.jpg	RameshArvind_1.jpg	349	90	61	71	mallige	1990	Ramesharavind	MALE	ANGER	GLASSES	BAD	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	096.jpg	RameshArvind_11.jpg	235	91	59	75	mallige	1990	Ramesharavind	MALE	ANGER	NONE	BAD	MIDDLE	DOWN	PARTIAL
+mallige_RameshAarvaind	097.jpg	RameshArvind_12.jpg	190	95	64	70	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	111.jpg	RameshArvind_13.jpg	381	130	64	55	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	180.jpg	RameshArvind_16.jpg	451	158	54	65	mallige	1990	Ramesharavind	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	184.jpg	RameshArvind_17.jpg	416	127	43	69	mallige	1990	Ramesharavind	MALE	HAPPINESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+mallige_RameshAarvaind	234.jpg	RameshArvind_19.jpg	367	63	160	322	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	HIGH	MIDDLE	RIGHT	PARTIAL
+mallige_RameshAarvaind	033.jpg	RameshArvind_2.jpg	400	109	60	72	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL
+mallige_RameshAarvaind	332.jpg	RameshArvind_20.jpg	174	131	60	70	mallige	1990	Ramesharavind	MALE	SADNESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	334.jpg	RameshArvind_22.jpg	176	109	56	83	mallige	1990	Ramesharavind	MALE	SADNESS	NONE	MEDIUM	MIDDLE	UP	PARTIAL
+mallige_RameshAarvaind	336.jpg	RameshArvind_23.jpg	156	117	47	77	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+mallige_RameshAarvaind	368.jpg	RameshArvind_24.jpg	377	125	143	190	mallige	1990	Ramesharavind	MALE	SADNESS	NONE	HIGH	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	409.jpg	RameshArvind_27.jpg	447	121	134	184	mallige	1990	Ramesharavind	MALE	HAPPINESS	NONE	HIGH	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	471.jpg	RameshArvind_29.jpg	221	129	58	69	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+mallige_RameshAarvaind	039.jpg	RameshArvind_3.jpg	71	170	197	221	mallige	1990	Ramesharavind	MALE	SADNESS	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+mallige_RameshAarvaind	479.jpg	RameshArvind_31.jpg	222	133	68	69	mallige	1990	Ramesharavind	MALE	SADNESS	NONE	BAD	MIDDLE	DOWN	PARTIAL
+mallige_RameshAarvaind	067.jpg	RameshArvind_7.jpg	256	149	70	86	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	LEFT	PARTIAL
+mallige_RameshAarvaind	073.jpg	RameshArvind_8.jpg	299	158	58	61	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL
+mallige_RameshAarvaind	084.jpg	RameshArvind_9.jpg	322	142	60	63	mallige	1990	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	LEFT	PARTIAL

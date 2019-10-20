@@ -1,0 +1,11 @@
+Devdas_MadhuriDixit_ShahRukhKhan	060.jpg	ShahrukhKhan_1.jpg	605	170	152	244	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	240.jpg	ShahrukhKhan_2.jpg	608	149	204	321	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	378.jpg	ShahrukhKhan_3.jpg	635	375	270	293	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	DOWN	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	388.jpg	ShahrukhKhan_4.jpg	624	236	251	330	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	DOWN	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	714.jpg	ShahrukhKhan_5.jpg	758	74	275	466	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	DOWN	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	720.jpg	ShahrukhKhan_6.jpg	459	30	223	512	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	RIGHT	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	741.jpg	ShahrukhKhan_7.jpg	459	246	445	475	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	764.jpg	ShahrukhKhan_8.jpg	214	54	376	510	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	777.jpg	ShahrukhKhan_9.jpg	327	1	446	529	Devdas	12-07-2002	Shahrukh_Khan	MALE	NEUTRAL	NONE	BAD	YOUNG	FRONTAL	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	791.jpg	ShahrukhKhan_10.jpg	461	1	426	710	Devdas	12-07-2002	Shahrukh_Khan	MALE	SADNESS	NONE	BAD	YOUNG	FRONTAL	PARTIAL	
+Devdas_MadhuriDixit_ShahRukhKhan	804.jpg	ShahrukhKhan_11.jpg	321	1	443	631	Devdas	12-07-2002	Shahrukh_Khan	MALE	SADNESS	NONE	BAD	YOUNG	FRONTAL	PARTIAL	

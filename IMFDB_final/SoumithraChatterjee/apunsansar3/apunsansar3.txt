@@ -1,0 +1,8 @@
+
+Apursansarclip3_	000002.png	SoumithraChattergee_1.jpg	175	85	137	163	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Apursansarclip3_	000197.png	SoumithraChattergee_12.jpg	170	93	139	155	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	DOWN	PARTIAL
+Apursansarclip3_	000323.png	SoumithraChattergee_14.jpg	120	142	159	177	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000008.png	SoumithraChattergee_3.jpg	173	86	130	156	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Apursansarclip3_	000009.png	SoumithraChattergee_4.jpg	172	90	130	153	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	LEFT	PARTIAL
+Apursansarclip3_	000013.png	SoumithraChattergee_6.jpg	165	83	140	164	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	LEFT	PARTIAL
+Apursansarclip3_	000052.png	SoumithraChattergee_9.jpg	164	96	140	156	apunsansar2	2013	Soumithra_Chattergee	MALE	SADNESS	BEARD	MEDIUM	MIDDLE	FRONTAL	PARTIAL

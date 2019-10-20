@@ -1,0 +1,18 @@
+
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0828.jpg	JosePrakash_12.jpg	176	50	128	185	Traffic	2011	Jose Prakash	MALE	HAPPINESS	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0849.jpg	JosePrakash_13.jpg	397	66	91	124	Traffic	2011	Jose Prakash	MALE	HAPPINESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0852.jpg	JosePrakash_14.jpg	401	52	98	130	Traffic	2011	Jose Prakash	MALE	SADNESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0877.jpg	JosePrakash_15.jpg	314	47	130	144	Traffic	2011	Jose Prakash	MALE	SADNESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0959.jpg	JosePrakash_16.jpg	157	43	159	213	Traffic	2011	Jose Prakash	MALE	HAPPINESS	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	1009.jpg	JosePrakash_18.jpg	376	47	176	212	Traffic	2011	Jose Prakash	MALE	SURPRISE	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	1012.jpg	JosePrakash_19.jpg	380	46	175	199	Traffic	2011	Jose Prakash	MALE	SURPRISE	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0665.jpg	JosePrakash_2.jpg	441	61	75	110	Traffic	2011	Jose Prakash	MALE	SURPRISE	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	1033.jpg	JosePrakash_21.jpg	304	45	186	220	Traffic	2011	Jose Prakash	MALE	HAPPINESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	1041.jpg	JosePrakash_22.jpg	342	48	188	224	Traffic	2011	Jose Prakash	MALE	SADNESS	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	1053.jpg	JosePrakash_23.jpg	273	46	174	208	Traffic	2011	Jose Prakash	MALE	SURPRISE	GLASSES	MEDIUM	OLD	RIGHT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0677.jpg	JosePrakash_3.jpg	405	48	105	131	Traffic	2011	Jose Prakash	MALE	HAPPINESS	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0681.jpg	JosePrakash_5.jpg	404	43	107	135	Traffic	2011	Jose Prakash	MALE	HAPPINESS	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0701.jpg	JosePrakash_6.jpg	419	45	108	140	Traffic	2011	Jose Prakash	MALE	ANGER	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0713.jpg	JosePrakash_7.jpg	163	60	117	145	Traffic	2011	Jose Prakash	MALE	SURPRISE	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0790.jpg	JosePrakash_8.jpg	394	53	80	117	Traffic	2011	Jose Prakash	MALE	NEUTRAL	GLASSES	MEDIUM	OLD	LEFT	PARTIAL
+Jose_Prakash_Super_dialogue_from_the_movie_Traffic_HD_1080p	0801.jpg	JosePrakash_9.jpg	393	53	77	111	Traffic	2011	Jose Prakash	MALE	DISGUST	GLASSES	MEDIUM	OLD	LEFT	PARTIAL

@@ -1,0 +1,7 @@
+clip8_HelloSister_LakshmiDevi_ShashiKumar	309.jpg	ShashiKumar_10.jpg	95	77	30	36	Hello_Sister	1995	Shashi_kumar	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	323.jpg	ShashiKumar_12.jpg	73	58	30	38	Hello_Sister	1995	Shashi_kumar	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	326.jpg	ShashiKumar_13.jpg	35	79	29	41	Hello_Sister	1995	Shashi_kumar	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	352.jpg	ShashiKumar_14.jpg	138	82	42	65	Hello_Sister	1995	Shashi_kumar	MALE	NEUTRAL	NONE	BAD	MIDDLE	DOWN	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	228.jpg	ShashiKumar_3.jpg	188	87	32	45	Hello_Sister	1995	Shashi_kumar	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	250.jpg	ShashiKumar_5.jpg	36	68	37	49	Hello_Sister	1995	Shashi_kumar	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+clip8_HelloSister_LakshmiDevi_ShashiKumar	270.jpg	ShashiKumar_6.jpg	79	92	79	99	Hello_Sister	1995	Shashi_kumar	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL

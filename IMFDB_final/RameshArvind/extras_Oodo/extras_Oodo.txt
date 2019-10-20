@@ -1,0 +1,18 @@
+
+Oodo_Takkida_Mallikanu_RameshARvind	014.jpg	RameshArvind_1.jpg	267	174	64	74	oodo	2005	Ramesharavind	MALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	305.jpg	RameshArvind_10.jpg	184	105	126	136	oodo	2005	Ramesharavind	MALE	SADNESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	482.jpg	RameshArvind_11.jpg	418	148	42	56	oodo	2005	Ramesharavind	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	511.jpg	RameshArvind_13.jpg	206	113	200	165	oodo	2005	Ramesharavind	MALE	HAPPINESS	HAND	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	515.jpg	RameshArvind_14.jpg	330	186	95	156	oodo	2005	Ramesharavind	MALE	HAPPINESS	HAND	MEDIUM	MIDDLE	LEFT	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	518.jpg	RameshArvind_16.jpg	188	106	120	147	oodo	2005	Ramesharavind	MALE	HAPPINESS	HAND	MEDIUM	MIDDLE	UP	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	598.jpg	RameshArvind_17.jpg	285	140	45	71	oodo	2005	Ramesharavind	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	UP	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	603.jpg	RameshArvind_18.jpg	286	144	58	71	oodo	2005	Ramesharavind	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	UP	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	676.jpg	RameshArvind_19.jpg	153	149	91	122	oodo	2005	Ramesharavind	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	029.jpg	RameshArvind_2.jpg	440	192	70	66	oodo	2005	Ramesharavind	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	DOWN	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	033.jpg	RameshArvind_3.jpg	329	139	55	83	oodo	2005	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	129.jpg	RameshArvind_4.jpg	233	201	64	77	oodo	2005	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	UP	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	131.jpg	RameshArvind_5.jpg	248	191	76	84	oodo	2005	Ramesharavind	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	133.jpg	RameshArvind_6.jpg	259	185	64	78	oodo	2005	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	135.jpg	RameshArvind_7.jpg	254	145	48	74	oodo	2005	Ramesharavind	MALE	NEUTRAL	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	231.jpg	RameshArvind_8.jpg	430	96	67	70	oodo	2005	Ramesharavind	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Oodo_Takkida_Mallikanu_RameshARvind	284.jpg	RameshArvind_9.jpg	359	170	111	148	oodo	2005	Ramesharavind	MALE	SURPRISE	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL

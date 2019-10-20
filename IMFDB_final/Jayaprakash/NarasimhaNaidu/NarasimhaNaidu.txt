@@ -1,0 +1,25 @@
+
+Narasimha_Naidu	01360.jpg	JayaPrakash_1.jpg	259	89	84	113	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	SURPRISE	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07155.jpg	JayaPrakash_10.jpg	275	147	45	55	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	07163.jpg	JayaPrakash_12.jpg	262	148	46	62	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Narasimha_Naidu	07202.jpg	JayaPrakash_14.jpg	269	152	43	60	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	07308.jpg	JayaPrakash_15.jpg	158	112	45	66	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	07315.jpg	JayaPrakash_16.jpg	120	119	56	76	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	07317.jpg	JayaPrakash_17.jpg	117	137	54	88	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	07345.jpg	JayaPrakash_18.jpg	403	109	94	73	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	BAD	MIDDLE	DOWN	PARTIAL
+Narasimha_Naidu	07357.jpg	JayaPrakash_20.jpg	247	118	42	54	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	HAPPINESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07721.jpg	JayaPrakash_21.jpg	258	95	100	161	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07740.jpg	JayaPrakash_24.jpg	472	144	57	84	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07746.jpg	JayaPrakash_25.jpg	452	137	52	84	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Narasimha_Naidu	07816.jpg	JayaPrakash_27.jpg	394	97	48	68	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	SURPRISE	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07831.jpg	JayaPrakash_28.jpg	405	120	44	73	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	07842.jpg	JayaPrakash_29.jpg	424	144	55	76	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Narasimha_Naidu	07843.jpg	JayaPrakash_30.jpg	436	149	59	69	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	08114.jpg	JayaPrakash_31.jpg	274	79	146	188	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	SADNESS	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	08119.jpg	JayaPrakash_32.jpg	344	56	163	204	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	08120.jpg	JayaPrakash_33.jpg	330	43	143	224	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	08124.jpg	JayaPrakash_34.jpg	297	44	155	190	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	08126.jpg	JayaPrakash_35.jpg	323	53	164	201	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Narasimha_Naidu	02159.jpg	JayaPrakash_5.jpg	368	107	88	130	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07124.jpg	JayaPrakash_8.jpg	282	137	87	97	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	ANGER	NONE	BAD	MIDDLE	FRONTAL	PARTIAL
+Narasimha_Naidu	07152.jpg	JayaPrakash_9.jpg	237	148	42	62	Narasimha_Naidu	11-01-2001	JayaPrakash	MALE	DISGUST	NONE	BAD	MIDDLE	RIGHT	PARTIAL

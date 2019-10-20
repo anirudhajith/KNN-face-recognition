@@ -1,0 +1,18 @@
+
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher1	0345.jpg	AnupamKher_1.jpg	270	98	53	70	HumApkeHaiKoun	1994	AnupamKher	MALE	HAPPINESS	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher3	0303.jpg	AnupamKher_10.jpg	164	94	74	94	HumApkeHaiKoun	1994	AnupamKher	MALE	HAPPINESS	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher4	1646.jpg	AnupamKher_11.jpg	199	118	93	122	HumApkeHaiKoun	1994	AnupamKher	MALE	SADNESS	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher4	1734.jpg	AnupamKher_12.jpg	92	125	73	95	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher4	1968.jpg	AnupamKher_13.jpg	29	116	116	138	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher4	1971.jpg	AnupamKher_14.jpg	76	141	105	131	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher4	2006.jpg	AnupamKher_15.jpg	210	126	71	92	HumApkeHaiKoun	1994	AnupamKher	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher5	1583.jpg	AnupamKher_16.jpg	262	122	51	68	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher5	1588.jpg	AnupamKher_17.jpg	404	88	45	68	HumApkeHaiKoun	1994	AnupamKher	MALE	HAPPINESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher1	0347.jpg	AnupamKher_2.jpg	287	116	50	59	HumApkeHaiKoun	1994	AnupamKher	MALE	HAPPINESS	GLASSES	BAD	MIDDLE	DOWN	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher1	1315.jpg	AnupamKher_3.jpg	150	104	135	191	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher1	1600.jpg	AnupamKher_4.jpg	118	97	60	76	HumApkeHaiKoun	1994	AnupamKher	MALE	SADNESS	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher1	1604.jpg	AnupamKher_5.jpg	99	90	54	82	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher1	1628.jpg	AnupamKher_6.jpg	31	77	77	105	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	RIGHT	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher2	0336.jpg	AnupamKher_7.jpg	211	108	64	89	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher2	0462.jpg	AnupamKher_8.jpg	195	141	62	84	HumApkeHaiKoun	1994	AnupamKher	MALE	NEUTRAL	GLASSES	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+HumApkeHaiKoun_MadhuriDixit_SalmanKhan_AnupamKher3	0299.jpg	AnupamKher_9.jpg	317	114	77	94	HumApkeHaiKoun	1994	AnupamKher	MALE	HAPPINESS	GLASSES	MEDIUM	MIDDLE	LEFT	PARTIAL

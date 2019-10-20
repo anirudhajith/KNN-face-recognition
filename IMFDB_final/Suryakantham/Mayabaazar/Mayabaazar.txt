@@ -1,0 +1,25 @@
+Mayabazar_Colour_Full_Movie_Telugu_HD	11724.jpg	Suryakantham_1.jpg	523	39	58	84	Mayabaazar	27-03-1957	Suryakantham	FEMALE	NEUTRAL	ORNAMENTS	BAD	MIDDLE	RIGHT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14305.jpg	Suryakantham_10.jpg	752	55	102	108	Mayabaazar	27-03-1957	Suryakantham	FEMALE	SADNESS	ORNAMENTS	BAD	MIDDLE	RIGHT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14309.jpg	Suryakantham_11.jpg	741	24	99	111	Mayabaazar	27-03-1957	Suryakantham	FEMALE	DISGUST	ORNAMENTS	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14708.jpg	Suryakantham_13.jpg	557	132	81	138	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	HIGH	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14723.jpg	Suryakantham_14.jpg	567	153	107	138	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14724.jpg	Suryakantham_15.jpg	553	165	100	134	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14730.jpg	Suryakantham_16.jpg	596	156	81	122	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	HIGH	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14770.jpg	Suryakantham_17.jpg	543	136	86	132	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	HIGH	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14798.jpg	Suryakantham_18.jpg	517	133	91	138	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	HIGH	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14852.jpg	Suryakantham_19.jpg	390	180	83	113	Mayabaazar	27-03-1957	Suryakantham	FEMALE	NEUTRAL	ORNAMENTS	HIGH	MIDDLE	FRONTAL	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14885.jpg	Suryakantham_20.jpg	359	169	88	125	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	MEDIUM	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22772.jpg	Suryakantham_21.jpg	227	79	93	164	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	BAD	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22819.jpg	Suryakantham_24.jpg	182	73	93	129	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	BAD	MIDDLE	FRONTAL	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22821.jpg	Suryakantham_25.jpg	195	78	95	141	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	BAD	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22823.jpg	Suryakantham_26.jpg	261	88	62	122	Mayabaazar	27-03-1957	Suryakantham	FEMALE	NEUTRAL	ORNAMENTS	BAD	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22957.jpg	Suryakantham_27.jpg	199	177	151	167	Mayabaazar	27-03-1957	Suryakantham	FEMALE	NEUTRAL	HAND	BAD	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22959.jpg	Suryakantham_28.jpg	284	43	132	200	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	HAND	MEDIUM	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	12853.jpg	Suryakantham_3.jpg	540	177	95	147	Mayabaazar	27-03-1957	Suryakantham	FEMALE	SURPRISE	ORNAMENTS	MEDIUM	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22963.jpg	Suryakantham_30.jpg	285	27	135	181	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	HAND	MEDIUM	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	22965.jpg	Suryakantham_31.jpg	288	9	116	201	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	HAND	MEDIUM	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	12859.jpg	Suryakantham_4.jpg	428	162	87	132	Mayabaazar	27-03-1957	Suryakantham	FEMALE	SURPRISE	ORNAMENTS	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	12895.jpg	Suryakantham_6.jpg	342	166	81	149	Mayabaazar	27-03-1957	Suryakantham	FEMALE	NEUTRAL	ORNAMENTS	MEDIUM	MIDDLE	LEFT	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14197.jpg	Suryakantham_8.jpg	641	109	51	66	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	BAD	MIDDLE	FRONTAL	PARTIAL
+Mayabazar_Colour_Full_Movie_Telugu_HD	14260.jpg	Suryakantham_9.jpg	507	246	45	86	Mayabaazar	27-03-1957	Suryakantham	FEMALE	HAPPINESS	ORNAMENTS	BAD	MIDDLE	LEFT	PARTIAL
+

@@ -1,0 +1,14 @@
+
+Apursansarclip3_	000002.png	SoumithraChatterjee_1.jpg	175	85	137	163	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000061.png	SoumithraChatterjee_10.jpg	166	109	136	150	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000198.png	SoumithraChatterjee_13.jpg	172	94	137	155	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000323.png	SoumithraChatterjee_14.jpg	120	142	159	177	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000351.png	SoumithraChatterjee_15.jpg	158	109	168	188	Apunsansar2	2013	Soumithra_Chatterjee	MALE	SURPRISE	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000352.png	SoumithraChatterjee_16.jpg	160	104	173	195	Apunsansar2	2013	Soumithra_Chatterjee	MALE	SURPRISE	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000005.png	SoumithraChatterjee_2.jpg	172	93	134	162	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000367.png	SoumithraChatterjee_20.jpg	155	105	177	188	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000008.png	SoumithraChatterjee_3.jpg	173	86	130	156	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000013.png	SoumithraChatterjee_6.jpg	165	83	140	164	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000014.png	SoumithraChatterjee_7.jpg	167	90	131	151	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000033.png	SoumithraChatterjee_8.jpg	166	81	130	156	Apunsansar2	2013	Soumithra_Chatterjee	MALE	HAPPINESS	NONE	BAD	MIDDLE	RIGHT	PARTIAL
+Apursansarclip3_	000052.png	SoumithraChatterjee_9.jpg	164	96	140	156	Apunsansar2	2013	Soumithra_Chatterjee	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL

@@ -1,0 +1,7 @@
+Barood_AkshayKumar2	0570.jpg	AmreshPuri_1.jpg	449	183	276	362	Barood	1998	AmrishPuri	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Barood_AkshayKumar2	1441.jpg	AmreshPuri_2.jpg	309	87	267	359	Barood	1998	AmrishPuri	MALE	ANGER	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Barood_AkshayKumar2	1703.jpg	AmreshPuri_3.jpg	841	221	230	351	Barood	1998	AmrishPuri	MALE	SADNESS	NONE	MEDIUM	MIDDLE	RIGHT	OVER
+Barood_AmreshPuri_AkshayKumar	038.jpg	AmreshPuri_4.jpg	1042	129	166	227	Barood	1998	AmrishPuri	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	FRONTAL	PARTIAL
+Barood_AmreshPuri_AkshayKumar	044.jpg	AmreshPuri_5.jpg	808	150	216	288	Barood	1998	AmrishPuri	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
+Barood_AmreshPuri_AkshayKumar	876.jpg	AmreshPuri_6.jpg	985	135	241	330	Barood	1998	AmrishPuri	MALE	NEUTRAL	NONE	MEDIUM	MIDDLE	LEFT	PARTIAL
+Barood_AmreshPuri_AkshayKumar	904.jpg	AmreshPuri_7.jpg	636	173	226	307	Barood	1998	AmrishPuri	MALE	ANGER	NONE	MEDIUM	MIDDLE	RIGHT	PARTIAL
