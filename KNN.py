@@ -27,15 +27,19 @@ for test_vec, test_truth_label, test_filepath in test_data:
         distances.append((dist, train_truth_label))
 
     distances.sort()
-    print(distances[:50])
+    print(distances[:5])
     try:
-        test_predicted_label = statistics.mode([l for _,l in distances[:50]]) 
+        test_predicted_label = statistics.mode([l for _,l in distances[:5]]) 
     except statistics.StatisticsError as e:
         test_predicted_label = 'Confused'
 
     plt.imshow(Image.open(test_filepath))
     plt.suptitle('truth_label: ' + str(test_truth_label) + '\n predicted_label: ' + str(test_predicted_label))
+    if test_truth_label != test_predicted_label:
+        plt.savefig('./misclassified/' + str(len(os.listdir('misclassified'))) + '.png')
     plt.show()
+
+    
 
 
     

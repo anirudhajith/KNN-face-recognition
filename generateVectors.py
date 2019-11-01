@@ -4,6 +4,7 @@ import numpy as np
 from PIL import Image
 from keras.models import load_model
 
+
 if os.path.isfile('./model/facenet_keras.h5'):
     print("Loading model...")
     facenet_model = load_model('./model/facenet_keras.h5')
